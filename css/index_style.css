@@ -1342,7 +1342,7 @@ header.sticky .navbar a:hover {
     }
 
     .fig {
-        height: 240px;
+        height: auto;
         width: 340px;
     }
 }
