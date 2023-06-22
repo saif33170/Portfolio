@@ -1108,8 +1108,8 @@ header.sticky .navbar a:hover {
 
 .fig {
     position: absolute;
-    min-height: 100%;
-    width: 100%;
+    min-height: 500px;
+    width: 900px;
     box-shadow: 0 0 1rem chartreuse;
     box-shadow: 0 0 1.5rem chartreuse;
     box-shadow: 0 0 2rem chartreuse;
@@ -1337,6 +1337,11 @@ header.sticky .navbar a:hover {
     }
 
     .box_fig {
+        height: 240px;
+        width: 340px;
+    }
+
+    .fig {
         height: 240px;
         width: 340px;
     }
