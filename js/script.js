@@ -46,7 +46,7 @@ sr.reveal('.about,.services,.contact,.resume,.ui,.web,.graphic', {delay:200, ori
 
 /*======== Typed js ========*/
 const typed = new Typed('.multiple_text', {
-    strings: ['UI Designer', 'Frontend Developer', 'Graphic Designer'],
+    strings: ['UI/UX Designer', 'Frontend Developer', 'Graphic Designer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1500,
